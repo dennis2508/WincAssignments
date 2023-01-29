@@ -1,0 +1,2 @@
+# WincAssignments
+Opdrachten voor DataAnalytics
